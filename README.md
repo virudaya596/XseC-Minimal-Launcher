@@ -1,2 +1,29 @@
-# XseC-Minimal-Launcher
-XseC is a minimal Android Homescreen Launcher.  Features: - Double-tap to lock (Device Admin) - Favorites system - App context menu (App Info, Uninstall, Favorite) - Bluetooth &amp; network status indicators - Custom battery UI - No ads. No tracking. No nonsense.  Designed primarily for Android 8.1+, tested on real devices.
+# XseC Launcher
+
+A minimal Android launcher built for speed and control.
+
+## Requirements
+- Android 8.1 (API 27) ~ Android 11 // Later Version May contain crash and bugs.
+
+## Features
+- Double tap to lock
+- Favorites & context menu
+- Custom battery / network / Bluetooth UI
+- Gesture-based interaction
+- No ads, no analytics
+
+## Installation
+1. Clone the repo
+2. Open in Android Studio
+3. Build & install
+
+## Permissions Used
+- Device Admin (for lock screen)
+- Network state
+- Bluetooth state
+
+## Status
+Actively developed.
+
+## Feedback
+Give you Valuable feedback to our site here
