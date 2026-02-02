@@ -23,12 +23,12 @@ body {
 }
 
 .hero h1 {
-  font-size: 3rem;
+  font-size: 2rem;
   letter-spacing: 1px;
 }
 
 .hero p {
-  margin-top: 12px;
+  margin-top: 10px;
   color: #b0b0b0;
 }
 
